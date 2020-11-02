@@ -5,7 +5,7 @@
 Create a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.]>
 
 ## GitHub Link
-[GitHub](https://awarmath.github.io/daily-planner/)
+[GitHub](https://github.com/awarmath/daily-planner.git)
 
 ## URL Link
 [daily-planer](https://awarmath.github.io/daily-planner/)
